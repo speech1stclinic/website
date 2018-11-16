@@ -1,0 +1,78 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Speech1stClinic"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Service"
+        url     = "/service"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Gallery"
+        url     = "/gallery"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 6
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "Communication is priority & communicate with confidence"
+        description = "Speech1st is a specialized clinic for rendering services to all clients with communication difficulty. This clinic helps to identify, evaluate and provide treatment to children & adults with speech, language and hearing disorders. Clinic is updated with all new treatment methods and provide best suitable therapy technique to the client. It continuously monitors the client’s progress and make an effort to fulfill the special needs of the clients."
+    
+        [[params.banner.flipText]]
+            title   = "Welcome  "
+        [[params.banner.flipText]]
+            title   = "To"
+        [[params.banner.flipText]]
+            title   = "Speech1st Clinic"
+     
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Dr.Shweta Prakash is an eminent Audiologist and Speech Language Pathologist in Noida. She has finished her Masters in Audiology from a pioneer institute “ALL INDIA INSTITUTE OF SPEECH & HEARING,MYSORE, KARNATAKA. She has done a specialized online training in “ORAL PLACEMENT THERAPY” from USA. She is a licensed practitioner, registered with Rehabilitation Council of India (RCI)."
+        image   = "images/about/about.jpg"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "Call to book your Appointment"
+        content = "Clinic (1): B - 105, Sector – 31, Noida Phone No: 8800786066 <br> Clinic (2): BL- 02, Sector – 71, Noida Phone No: 7982822327 <br> For Appointments: 0120 – 4268989"
+        btnText = "Contact with me"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Portfolio"
+        subtitle= "Assessment,Therapy & Rehabilitation to the individuals facing with hearing and speech disorders."
+
+    # Feature Product Section
+    [params.featureProduct]
+        enable  = true
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."

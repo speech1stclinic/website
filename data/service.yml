@@ -1,0 +1,64 @@
+enable  : true
+title   : WHAT WE LOVE TO DO
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+image   : images/team.jpg
+serviceItem :
+  - icon  : ion-ios-paper-outline
+    title : Misarticulation/Articulation Disorder
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-pint-outline
+    title : Stuttering/Stammering
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : Voice Disorders
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : Delayed Speech & Language Development
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+
+  - icon  : ion-ios-paper-outline
+    title : Cleft Lip/Palate
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : Dysarthria
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : Aphasia
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+
+  - icon  : ion-ios-paper-outline
+    title : Oral Motor Disorders
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : Hearing Impairment
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : Autism Spectrum Disorders
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+
+  - icon  : ion-ios-paper-outline
+    title : Learning Disability
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+    
